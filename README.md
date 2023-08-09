@@ -1,1 +1,1 @@
-# hello-world
+# Primneiro programa para o curso: desenvolvimento de software com foco em backend
